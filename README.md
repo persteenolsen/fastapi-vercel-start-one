@@ -39,6 +39,8 @@ python -m venv venv
 source venv/bin/activate
 ```
 
+Or Use VS Code for the same procedure like above
+
 Then, install the dependencies:
 
 ```bash
